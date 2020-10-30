@@ -234,3 +234,4 @@ _Pvt_Extensions
 **/*.db-shm
 **/*.db-wal
 .DS_Store
+**/*.pem
